@@ -1,2 +1,2 @@
 # rotbenegar.ir
-an application to analys Mobile network logs with big data platfrom
+this is my big data project
