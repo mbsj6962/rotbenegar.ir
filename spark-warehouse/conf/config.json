@@ -1,0 +1,9 @@
+{
+    "test_mode": "false",
+    "log_type": "MCI",
+    "data_path": "spark-warehouse/",
+    "input_data_path": "spark-warehouse/MCI/test2",
+    "geo_file_path": "spark-warehouse/geo/GeoLiteCity.dat",
+    "fraud_file_path": "spark-warehouse/fraud/IPList.csv",
+    "rank_formula": "LogRank"
+}

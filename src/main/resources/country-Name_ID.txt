@@ -1,0 +1,15 @@
+US	1
+NL	2
+IR	3
+CA	4
+DE	5
+qa	6
+ru	7
+ae	8
+eu	9
+sg	10
+th	11
+ru	12
+gb	13
+nz	14
+gb	15

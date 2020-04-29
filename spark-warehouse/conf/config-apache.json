@@ -1,0 +1,9 @@
+{
+    "test_mode": "false",
+    "log_type": "Apache",
+    "data_path": "spark-warehouse/",
+    "input_data_path": "spark-warehouse/Apache/*",
+    "geo_file_path": "spark-warehouse/geo/GeoLiteCity.dat",
+    "fraud_file_path": "spark-warehouse/fraud/IPList.csv",
+    "rank_formula": "LogRank"
+}
